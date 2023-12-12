@@ -1,23 +1,34 @@
-# coc6d435f9c938f6e827b3f04
+# Van Life React-Router
 
-Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
+A page showcasing my React Router skills using the example of vans. Everyone will find a van for themselves! :D
 
-Quick start:
+## Technologies
 
 ```
-$ npm install
-$ npm start
-````
+- React
+- React Router
+- Java Script
+- HTML
+- CSS
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+```
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Things I've learned
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+```
+-RouterProvider,
+-createBrowserRouter,
+-createRoutesFromElements,
+-Route,
+-Link
+-NavLink
+-Outlet
+-useOutletContext
+-useRouteError
+-useParams
+-fetch
+```
 
-Happy Coding!
+## Link to the page
+
+https://verdant-otter-7f8246.netlify.app/
